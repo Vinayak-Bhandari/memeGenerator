@@ -1,0 +1,25 @@
+.btn-block{
+    width: 100%;
+}
+
+.card{
+    border: none;
+}
+
+.app{
+    margin-top: 30px;
+    width: fit-content;
+}
+
+.form-group{
+    margin-top: 10px;
+    margin-bottom: 2px;
+}
+
+.form-control{
+    margin-top: 2px;
+}
+
+label{
+    margin: 2px;
+}
